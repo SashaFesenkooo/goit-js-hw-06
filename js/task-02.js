@@ -14,4 +14,4 @@ ingredientsList.append(
     itemList.textContent = item;
     return itemList;
   })
-)
+);
